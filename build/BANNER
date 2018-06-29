@@ -1,0 +1,5 @@
+<%= pkg.data.name %> v<%= pkg.version %>
+(c) <%= pkg.author %>
+Released under the <%= pkg.license %> License.
+
+<<%= timestamp() %>>
